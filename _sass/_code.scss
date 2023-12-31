@@ -5,7 +5,6 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 1.1rem;
   background-color: #f6f6f6;
   border-radius: 3px;
 }
@@ -14,7 +13,6 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   padding: 2rem;
-  font-size: 1.1rem;
   //line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
@@ -24,7 +22,6 @@ pre {
 }
 pre code {
   padding: 0;
-  //font-size: 100%;
   color: inherit;
   background-color: transparent;
 }
@@ -50,7 +47,6 @@ pre code {
   background-color: transparent;
 }
 .gist .gist-file .gist-data {
-  font-size: 1.1rem !important;
   //line-height: 1.4;
 }
 .gist code {
