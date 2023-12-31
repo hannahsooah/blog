@@ -6,7 +6,7 @@ nothing much to it, i just got sick of wordpress UI and ads so i decided to try 
 
 I might private this repo later and host on a different domain because... I'm not sure if I want to link my personal blog to a public dev account lol
 
-## cool things to add later (maybe sooner):
+## things to add later (maybe sooner):
 
 * change font to be easier on the eyes and have more contrast (i don't like the
 current font)
