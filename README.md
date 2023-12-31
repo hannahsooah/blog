@@ -14,3 +14,5 @@ current font)
 [homepage](https://github.com/andrewbanchich/forty-jekyll-theme), etc.
 * [formspree.io](https://formspree.io/) contact form integration for subscribers
 * [google analytics](https://www.google.com/analytics/) support.
+* add [encrypted posts](https://github.com/lilykonings/jekyll-password-protect)
+for backwards compatibility
