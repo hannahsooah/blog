@@ -31,7 +31,7 @@ became used to it and they came naturally to me. But now… now, my days are
 colored with emotions and they make up a lovely painting. And that’s not even
 the best part.
 
-Like I had mentioned in the [sanctification](LINK) post, I’ve been learning
+Like I had mentioned in the [sanctification]({{ site.baseurl }}/sanctification) post, I’ve been learning
 how to walk with God. This semester I stepped into official serving roles for
 the first time, in FCS and Soon (fellowship). It’s been such a blessed time,
 learning to rely on God and be in tune with how He wants to use me in these
