@@ -16,3 +16,4 @@ current font)
 * [google analytics](https://www.google.com/analytics/) support.
 * add [encrypted posts](https://github.com/lilykonings/jekyll-password-protect)
 for backwards compatibility
+* look up a way to add short description under post title for preview
