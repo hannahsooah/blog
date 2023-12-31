@@ -201,7 +201,9 @@ start new things more than anything else... and I thank God.
 
 ` `  
 
-##### "And going a little farther he fell on his face and prayed, saying, 'My Father, if it is possible, let this cup pass from me; nevertheless, not as I will, but as you will'" Matthew 26:39
+##### "And going a little farther he fell on his face and prayed, saying, 'My Father, if it is possible, let this cup pass from me; nevertheless, not as I will, but as you will'" 
+##### -- Matthew 26:39
 ` `  
 
-##### "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me." Galatians 2:20
+##### "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me." 
+##### -- Galatians 2:20

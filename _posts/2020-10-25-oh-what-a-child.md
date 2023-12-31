@@ -76,4 +76,4 @@ out, and express gratitude because they could be gone in a moment.
 
 ` `  
 ##### “Or do you not know what your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body.” 
-##### 1 Corinthians 6:19-20
+##### -- 1 Corinthians 6:19-20

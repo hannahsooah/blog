@@ -112,5 +112,5 @@ Lord, guide me in your way.
 ##### As the heavens are higher than the earth,
 ###### so are my ways higher than your ways
 ###### and my thoughts than your thoughts.”
-##### – Isaiah 55:8-9
+##### -- Isaiah 55:8-9
 

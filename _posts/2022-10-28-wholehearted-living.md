@@ -90,8 +90,8 @@ as always, lmk if u wanna talk ❤
 
 ` `  
 
-##### “Therefore, my brothers, whom I love and long for, my joy and crown,
-##### stand firm thus in the Lord, my beloved.” Phil 4:1
+##### “Therefore, my brothers, whom I love and long for, my joy and crown, stand firm thus in the Lord, my beloved.”
+##### -- Philippians 4:1
 ` `  
-##### “And I will betroth you to me forever. I will betroth you to me in
-##### righteousness and in justice, in steadfast love and in mercy.” Hosea 2:19
+##### “And I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy.” 
+##### -- Hosea 2:19

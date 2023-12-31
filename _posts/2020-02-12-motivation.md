@@ -110,4 +110,4 @@ more and more of what you see.
 
 ` `  
 ##### For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, “Abba, Father!”
-##### —Romans 8:15
+##### -- Romans 8:15

@@ -91,8 +91,8 @@ i’m still lost, but i thank you for your plan.
 
 ` `  
 ##### “For whenever our heart condemns us, God is greater than our heart, and he knows everything.”
-##### 1 John 3:20
+##### -- 1 John 3:20
 ` `  
 ##### “Then he said to them all: ‘Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me.'”
-##### Luke 9:23 
+##### -- Luke 9:23 
 

@@ -91,7 +91,7 @@ heart aligned with yours.
 
 ` `  
 ##### “You also, be patient. Establish your hearts, for the coming of the Lord is at hand. Do not grumble against one another, brothers so that you may not be judged” 
-##### James 5:8-9
+##### -- James 5:8-9
 ` `  
 ##### “Bear one another’s burdens, and so fulfill the law of Christ.” 
-##### Galatians 6:2
+##### -- Galatians 6:2

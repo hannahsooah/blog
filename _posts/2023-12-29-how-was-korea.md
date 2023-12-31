@@ -157,4 +157,4 @@ ___
 ###### and lead them in procession to the house of God
 ##### with glad shouts and songs of praise,
 ###### a multitude keeping festival."
-##### Psalm 42:4
+##### -- Psalm 42:4

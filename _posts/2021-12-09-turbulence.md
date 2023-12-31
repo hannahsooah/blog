@@ -77,4 +77,5 @@ then, one night in mid-october, i decided to surrender my life to God again.
 ---
 
 ` `  
-##### “Your kingdom come, your will be done, on earth as it is in heaven.” Matthew 6:10
+##### “Your kingdom come, your will be done, on earth as it is in heaven.” 
+##### -- Matthew 6:10
