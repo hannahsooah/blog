@@ -12,9 +12,10 @@ clone this repo
 
 install necessary dependencies with `bundle install`
 
-run `jekyll serve --livereload` in a terminal
+run `make` in a terminal
 
 the local version of the site should be up and running at [http://localhost:4000/](http://localhost:4000/)
+run `make clean` to remove generated files
 
 ## things to add later (maybe sooner):
 
