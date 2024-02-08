@@ -9,6 +9,7 @@ highlighter:         rouge  # default Ruby highlighter for Jekyll
 permalink:           /:title
 exclude:             [_posts/.template.md]
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+url:                 blog.hannahsooah.com
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "active thoughts"
