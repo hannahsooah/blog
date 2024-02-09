@@ -4,7 +4,7 @@
 paginate:            5
 
 # Build settings
-url:                 https://www.hannahsooah.com/
+url:                 https://www.hannahsooah.com
 markdown:            kramdown  # default Markdown renderer for Jekyll
 highlighter:         rouge  # default Ruby highlighter for Jekyll
 permalink:           /:title
